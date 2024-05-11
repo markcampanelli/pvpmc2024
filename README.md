@@ -1,6 +1,18 @@
 # pvpmc2024
 2024 PVPMC Workshop in Salt Lake City, UT, USA
 
+## Poster
+
+[Spectral and Diffuse-Angular Corrections in PVfit](poster/poster-final-mark-campanelli.pdf),
+by Mark Campanelli and Carl Osterwald
+
+This poster shows the derivation of spectral and diffuse angular corrections using
+PVfit's formulation of the single-diode model (SDM) with respect to effective irradiance
+ratio F and cell temperature T. Correction results are compared for a common x-Si module
+on clearsky, partly cloudy, and overcast skies, where the direct-normal irradiance has
+been measured in addition to common MET-station data. An implementation of the
+computation is provided by the tutorial described in the next section.
+
 ## PVfit Tutorial
 
 ### Python Environment and Package Installation
