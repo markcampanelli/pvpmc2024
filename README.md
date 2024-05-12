@@ -37,12 +37,12 @@ Install `pvfit v0.0.1` from PyPI with `demo` dependencies---
 ### Tutorial Notebook Setup
 
 
-Install `jupyterlab`` for interactive tutorials---
+Install `jupyterlab` for interactive tutorials---
 ```console
 $ python -m pip install jupyterlab
 ```
 
-Run `jupyterlab`` within a web browser (or VSCode, etc.)---
+Run `jupyterlab` within a web browser (or VSCode, etc.)---
 ```console
   $ jupyter lab
 ```
